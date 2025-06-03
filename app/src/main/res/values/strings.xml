@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="android_teams">Android Teams</string>
+    <string name="type_a_message">Type a message...</string>
+    <string name="reply">Reply</string>
+    <string name="_12_00">12:00</string>
+</resources>
